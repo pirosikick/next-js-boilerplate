@@ -1,0 +1,29 @@
+{
+  "name": "@app/core",
+  "version": "0.0.0",
+  "description": "> TODO: description",
+  "author": "Hiroyuki Anai <pirosikick@gmail.com>",
+  "homepage": "https://github.com/pirosikick/next-js-boilerplate#readme",
+  "license": "MIT",
+  "main": "lib/core.js",
+  "directories": {
+    "lib": "lib",
+    "test": "__tests__"
+  },
+  "files": [
+    "lib"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pirosikick/next-js-boilerplate.git"
+  },
+  "scripts": {
+    "build": "tsc"
+  },
+  "bugs": {
+    "url": "https://github.com/pirosikick/next-js-boilerplate/issues"
+  },
+  "devDependencies": {
+    "typescript": "^3.4.2"
+  }
+}

@@ -1,0 +1,13 @@
+{
+  "name": "next-js-boilerplate",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/pirosikick/next-js-boilerplate",
+  "author": "Hiroyuki Anai <pirosikick@gmail.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "lerna": "^3.13.1"
+  },
+  "workspaces": ["packages/*"],
+  "private": true
+}
